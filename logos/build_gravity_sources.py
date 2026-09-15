@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Cody Ho
 """Generate minified, self-contained Gravity Linux logo source SVGs.
 
 Requires fontTools on PYTHONPATH when rebuilding the outlined Manrope wordmark.

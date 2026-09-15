@@ -2,9 +2,10 @@
 
 This directory contains the logo art for Gravity Linux.
 
-You may use the logos to reference the Gravity Linux project. Please do not use
-them to represent other projects, or to imply any association with or
-endorsement by Gravity Linux.
+The artwork is licensed under [CC BY 4.0](../LICENSE), with attribution to
+Cody Ho. Copying, modification and commercial redistribution are permitted
+under that copyright license. Use of the Gravity name and logos as branding
+is addressed separately in the [trademark policy](../TRADEMARKS.md).
 
 ## Logo variants
 
